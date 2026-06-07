@@ -6,4 +6,3 @@ METRO IT Students List
 4.sohan
 5.Alif
 6.Taruha
-7.Rag korla?
